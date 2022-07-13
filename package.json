@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.6.0",
+    "chai": "^4.3.6",
+    "ethjs-abi": "^0.2.1",
+    "nft.storage": "^6.2.0"
+  }
+}
